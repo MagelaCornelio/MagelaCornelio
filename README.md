@@ -1,6 +1,7 @@
 <h1 align="center">Magela Cornelio González</h1>
 <h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
 
+<img width="100%" src="https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif" alt="Banner" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MagelaCornelio&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
